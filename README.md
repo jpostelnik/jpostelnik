@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jpostelnik, I am freshman at TAMU. I was the lead software designer for 7797 Vicotrian Voltage.
 - 👀 I’m interested in advance control algrathims for robotics.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning JavaScript / C++
 - 📫 How to reach me via discord @ IAmTurtle#5414
 
 <!---
